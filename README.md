@@ -24,7 +24,6 @@ Clone o repositório para sua máquina local:
 Acesse a pasta do projeto e instale as dependências:
 
 ```bash
-  cd todo-list-react-vite-tailwind
   npm install
 ```
 
@@ -34,8 +33,8 @@ Após instalar as dependências, execute o comando abaixo para rodar o projeto e
 
 ```bash
   npm run dev
-  O aplicativo estará disponível em http://localhost:5173.
 ```
+O aplicativo estará disponível em http://localhost:5173.
 
 ## Funcionalidades
 - Adicionar tarefa: Insira um título para a tarefa e adicione-a à lista.
